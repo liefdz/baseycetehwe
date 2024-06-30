@@ -1,1 +1,6 @@
-www.ctwofficial.com
+{
+    "allowed_domains": [
+        "ctwofficial.com",
+        "www.ctwofficial.com"
+    ]
+}
